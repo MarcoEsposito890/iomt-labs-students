@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+data/DATA/
+data/cache/
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+work/*
+!work/.gitkeep
+labs/work/
+# rapporto scritto da scripts/verify_setup.py
+verifica.txt
+projects/*/work/
