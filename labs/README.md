@@ -7,3 +7,4 @@ A ogni lezione: `git pull`, poi si copia il notebook in `work/` e si lavora sull
 | notebook | laboratorio |
 |---|---|
 | `lab00_setup.ipynb` | Lab 0 — L'ambiente di lavoro |
+| `lab01_mqtt.ipynb` | Lab 1 — TCP grezzo e MQTT |
